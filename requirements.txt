@@ -1,0 +1,37 @@
+langchain
+langgraph
+crewai
+autogenstudio
+pydantic-ai
+litellm
+fastapi
+uvicorn
+python-dotenv
+
+# LLM Providers & Integrations
+openai
+anthropic
+google-generativeai
+mistralai
+zhipuai
+dashscope
+moonshot-python
+
+# Memory & Knowledge
+pymilvus
+qdrant-client
+sentence-transformers
+chromadb
+
+# Tools
+playwright
+beautifulsoup4
+requests
+duckduckgo-search
+wikipedia
+
+# Utilities
+pydantic
+loguru
+tqdm
+pyyaml
